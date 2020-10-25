@@ -8,3 +8,10 @@ Some solutions of popular tasks implemented in SWI-Prolog
 * 'tail' factorial: `tailFactor(6,X).`
 * simple Fibonacci: `fibonacci(8,X).`
 * 'tail' Fibonacci: `tailFibonacci(8,V1,V).`
+
+2. Knight's tour
+   
+   This task is solved using Warnsdorff's rule. Examples of usage:
+   
+ * `horse(8).`
+ * `horse(20).`
