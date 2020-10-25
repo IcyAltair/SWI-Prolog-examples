@@ -19,4 +19,4 @@ Some solutions of popular tasks implemented in SWI-Prolog
    
    This task is solved through сyclical transition between states. Examples of usage:
    
-* 'condition(left,left,left,left,none).' 
+* `condition(left,left,left,left,none).` 
