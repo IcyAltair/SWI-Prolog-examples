@@ -48,3 +48,10 @@ Some solutions of popular tasks implemented in SWI-Prolog
    This task is solved through сyclical transition between states. Example of usage:
    
 * `ferzi(A).`
+
+7. Math puzzle
+
+   Simple school task is solved using brute-force for every digit number. Examples of usage:
+   
+* `task1(N1,N2,N),add(N1,N2,N).`
+* `task2(N1,N2,N),add(N1,N2,N).`
