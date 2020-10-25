@@ -15,8 +15,16 @@ Some solutions of popular tasks implemented in SWI-Prolog
    
 * `horse(8).`
 * `horse(20).`
+
 3. Wolf, goat and cabbage problem
    
-   This task is solved through сyclical transition between states. Examples of usage:
+   This task is solved through сyclical transition between states. Example of usage:
    
 * `condition(left,left,left,left,none).` 
+
+4. Tower of Hanoi
+
+   This task is solved in "classic" recursive way for 3 towers and using Frame–Stewart algorithm for more towers. Examples of usage:
+   
+* `mov(3,x,y,z,p).`
+* `mov(3, a,[b,c],d,p).`
