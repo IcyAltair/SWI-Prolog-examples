@@ -42,3 +42,9 @@ Some solutions of popular tasks implemented in SWI-Prolog
 * `insert_head_list(3,[4,5],N).`
 * `insert_back_list([1,2],3,N).`
 * `insert_list([1,2],3,1,N).`
+
+6. Eight queens puzzle
+
+   This task is solved through сyclical transition between states. Example of usage:
+   
+* `ferzi(A).`
