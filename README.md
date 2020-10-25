@@ -13,5 +13,10 @@ Some solutions of popular tasks implemented in SWI-Prolog
    
    This task is solved using Warnsdorff's rule. Examples of usage:
    
- * `horse(8).`
- * `horse(20).`
+* `horse(8).`
+* `horse(20).`
+3. Wolf, goat and cabbage problem
+   
+   This task is solved through сyclical transition between states. Examples of usage:
+   
+* 'condition(left,left,left,left,none).' 
